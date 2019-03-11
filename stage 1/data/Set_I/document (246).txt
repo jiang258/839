@@ -1,0 +1,10 @@
+
+The brigand <name>Toza</name> was taken to a cell in the northern tower, where, by climbing on a bench, he could get a view of the profound valley at the mouth of which the castle was situated.  Why then were they so anxious not to kill him in a fair fight if he were now to be merely beheaded?
+
+"What is your name?" asked <name>Toza</name> of his gaoler.
+
+"I am called <name>Paulo</name>," was the answer.
+
+"That is not necessary," answered <name>Paulo</name>. "I receive my recompense from the steward."
+
+
