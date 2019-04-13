@@ -1,0 +1,12 @@
+  This is the folder that stores all the data of stage 2.
+  In this part, data are from IMDB and Rotten Tomatoes, which are most famous websites of ratings and reviews for movies. for each website,we extracted URL, Name, Stars, Year, Time, Rating, Genre and Director as the features. 
+  - URL is the webpage of the movie.
+  - Name is the name of the movie.
+  - Stars is the main stars in the movie.
+  - Year is the year that the movie was released.
+  - Time is the duration of the movie.
+  - Rating is the rating of the movie( like R, PG13, etc).
+  - Genre is the type of the movie.
+  - Director is the director of the movie.
+  
+  The number of tuples in IMDB is 3100, and the number of tuples in Rotten Tomatoes is 3262.
