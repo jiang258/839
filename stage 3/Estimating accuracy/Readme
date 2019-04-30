@@ -1,0 +1,9 @@
+In this part, we listed all the data used for calculating the precision and recall.
+The size of candidate set is 92795
+The size of reduced candidate set is 6696
+
+The range of precision is :
+ (0.9507454786427749, 1.0051845278381064)
+ 
+ The range of recall is :
+ (0.899774426900109, 0.9870180259300797)
